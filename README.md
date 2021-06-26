@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshjessica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+!(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
