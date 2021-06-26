@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kim_Seohyun%20render&fontSize=90
+[![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshjessica)](https://github.com/anuraghazra/github-readme-stats)
